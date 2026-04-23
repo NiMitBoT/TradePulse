@@ -1,5 +1,5 @@
 # 🌐 TradePulse-Analytics
-Welcome to TradePulse v1.0. This started as a "hope this works" prototype in my local terminal and has officially evolved into a full-stack monster that lives on the cloud. If you are a recruiter, a professor at Chandigarh University, or just a lost dev, this is the project where finance meets machine learning without the boring parts.
+Welcome to TradePulse v1.0. This started as a "hope this works" prototype in my local terminal and has officially evolved into a full-stack monster that lives on the cloud.
 
 
 
